@@ -4,7 +4,7 @@ Formik is a small group of React components and hooks for building forms in Reac
 
 ## Demo
 
-Insert gif or link to demo
+https://react-formik-omega.vercel.app/
 
 ## Lessons Learned
 
